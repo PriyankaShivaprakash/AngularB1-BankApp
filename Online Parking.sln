@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online Parking", "Online Parking\Online Parking.csproj", "{670B4E53-9F99-4B2B-898C-AC8CDE5904F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670B4E53-9F99-4B2B-898C-AC8CDE5904F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670B4E53-9F99-4B2B-898C-AC8CDE5904F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670B4E53-9F99-4B2B-898C-AC8CDE5904F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670B4E53-9F99-4B2B-898C-AC8CDE5904F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
